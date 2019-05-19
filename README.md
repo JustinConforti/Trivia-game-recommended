@@ -1,1 +1,2 @@
-# Trivia-game-recommended
+# TriviaGame
+Trivia Game
